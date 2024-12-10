@@ -1,0 +1,42 @@
+body {
+  font-family: "Arial", sans-serif;
+}
+
+#hero {
+  background: #0056d2;
+  color: #ffffff;
+  padding: 6rem 0;
+}
+
+#hero h1 {
+  font-size: 2.5rem;
+  margin-bottom: 1rem;
+}
+
+#hero .btn {
+  font-size: 1.2rem;
+  padding: 0.8rem 2rem;
+}
+
+#features .fw-bold {
+  color: #0056d2;
+}
+
+#xign-up {
+  background: #0056d2;
+  color: #ffffff;
+}
+
+#xign-up .btn {
+  font-size: 1rem;
+  padding: 0.7rem 1.5rem;
+}
+
+footer {
+  background: #ffffff;
+  color: #0056d2;
+}
+
+footer p {
+  margin: 0;
+}
